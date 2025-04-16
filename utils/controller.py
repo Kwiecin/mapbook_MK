@@ -7,6 +7,13 @@ def get_user_info(users_data: list) -> None:
     ]
     print(users)
 
+    def remove_user(users_data: list) -> None:
+
+        user_name = input("podaj imie uzytkownika do usuniecia: ")
+        for user in users_data:
+            if user["name"] == user_name:
+                users_data.remove(user)
+
     def add_user(users_data: list) -> None:
         user_name = input("podaj imię nowego użytkowanika: ")
         user_location = input("podaj lokalizację nowego znajomego: ")
