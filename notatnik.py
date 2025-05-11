@@ -13,3 +13,5 @@ def remove_user(users_data: list)-> None:
             users_data.remove(user)
 
  remove_user(users)
+
+print(users)
