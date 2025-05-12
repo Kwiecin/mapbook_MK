@@ -4,4 +4,3 @@ users: list = [
     {"name": "Maja", "location": "Świecie", "posts": 300},
     {"name": "Zuzanna", "location": "Radzyń_Podlaski", "posts": 700},
 ]
-2
