@@ -70,7 +70,7 @@ def get_coordinates(city_name:str)->list:
 def get_map(users_data:list)->None:
     import folium
     mapa=folium.Map(location=[52.21,21.0], zoom_start=6)
-    for user in users:
+    for user in users_data:
         print(user["location"])
 
         folium.Marker(
