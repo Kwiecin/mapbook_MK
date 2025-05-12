@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a74d304-e5e3-48c6-9b99-40ad8a42a200" name="Changes" comment="wip: new function: update user" />
+    <list default="true" id="4a74d304-e5e3-48c6-9b99-40ad8a42a200" name="Changes" comment="wip: new function: update user">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mapa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/controller.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -236,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747060154774</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="wip: new function: update user">
+      <option name="closed" value="true" />
+      <created>1747066158134</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747066158136</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,13 +283,13 @@
     <MESSAGE value="wip: add menu" />
     <MESSAGE value="wip: new function: add new user" />
     <MESSAGE value="wip: new function: remove user" />
-    <MESSAGE value="wip: new function: update user" />
     <MESSAGE value="wip: new function: interactive map" />
-    <option name="LAST_COMMIT_MESSAGE" value="wip: new function: interactive map" />
+    <MESSAGE value="wip: new function: update user" />
+    <option name="LAST_COMMIT_MESSAGE" value="wip: new function: update user" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mapbook_MK$controller.coverage" NAME="controller Coverage Results" MODIFIED="1744794664870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
     <SUITE FILE_PATH="coverage/mapbook_MK$notatnik.coverage" NAME="notatnik Coverage Results" MODIFIED="1747065471269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mapbook_MK$main.coverage" NAME="main Coverage Results" MODIFIED="1747065528095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mapbook_MK$main.coverage" NAME="main Coverage Results" MODIFIED="1747067057591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
