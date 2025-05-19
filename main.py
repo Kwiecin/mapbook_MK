@@ -70,7 +70,7 @@ def update_user(i):
     entry_surname.delete(0, END)
     entry_location.delete(0, END)
     entry_posts.delete(0, END)
-    entry_name.focus(
+    entry_name.focus()
 
 
 
