@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a74d304-e5e3-48c6-9b99-40ad8a42a200" name="Changes" comment="wip: tk appgui, map">
+    <list default="true" id="4a74d304-e5e3-48c6-9b99-40ad8a42a200" name="Changes" comment="wip: dodano crud dla interfejsu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notatnik.py" beforeDir="false" afterPath="$PROJECT_DIR$/notatnik.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +175,7 @@
       <workItem from="1747058581706" duration="1777000" />
       <workItem from="1747060385854" duration="103000" />
       <workItem from="1747060502095" duration="550000" />
-      <workItem from="1747663510218" duration="6900000" />
+      <workItem from="1747663510218" duration="10822000" />
     </task>
     <task id="LOCAL-00001" summary="wip: simple data structure prepared">
       <option name="closed" value="true" />
@@ -256,7 +257,31 @@
       <option name="project" value="LOCAL" />
       <updated>1747667116166</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="wip: tk appgui, map">
+      <option name="closed" value="true" />
+      <created>1747671556342</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1747671556342</updated>
+    </task>
+    <task id="LOCAL-00012" summary="wip: tk appgui, map">
+      <option name="closed" value="true" />
+      <created>1747671583958</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1747671583970</updated>
+    </task>
+    <task id="LOCAL-00013" summary="wip: dodano crud dla interfejsu">
+      <option name="closed" value="true" />
+      <created>1747671603236</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1747671603236</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,11 +319,12 @@
     <MESSAGE value="wip: new function: update user" />
     <MESSAGE value="wip: tk app gui" />
     <MESSAGE value="wip: tk appgui, map" />
-    <option name="LAST_COMMIT_MESSAGE" value="wip: tk appgui, map" />
+    <MESSAGE value="wip: dodano crud dla interfejsu" />
+    <option name="LAST_COMMIT_MESSAGE" value="wip: dodano crud dla interfejsu" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/mapbook_MK$controller.coverage" NAME="controller Coverage Results" MODIFIED="1744794664870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/mapbook_MK$notatnik.coverage" NAME="notatnik Coverage Results" MODIFIED="1747065471269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/mapbook_MK$main.coverage" NAME="main Coverage Results" MODIFIED="1747670458093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mapbook_MK$notatnik.coverage" NAME="notatnik Coverage Results" MODIFIED="1747673553406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/mapbook_MK$main.coverage" NAME="main Coverage Results" MODIFIED="1747674592722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
