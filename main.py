@@ -183,5 +183,4 @@ map_widget = tkintermapview.TkinterMapView(ramka_mapa, width=1200, height=500, c
 map_widget.set_position(52.23, 21.0)
 map_widget.set_zoom(6)
 map_widget.grid(row=0, column=0, columnspan=2)
-
 root.mainloop()
